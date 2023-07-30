@@ -1,0 +1,3 @@
+.mitmproxy/mitmproxy-ca.p12
+.mitmproxy/mitmproxy-dhparam.pem
+.mitmproxy/mitmproxy-ca.pem
